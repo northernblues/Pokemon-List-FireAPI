@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15850374468",
+    "project_id": "pokemonlist-de8e8",
+    "storage_bucket": "pokemonlist-de8e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15850374468:android:8f48bc046528da30ebc311",
+        "android_client_info": {
+          "package_name": "com.example.pokemon_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15850374468-ln5jum6v8qv018s91uet07dh48mi6dfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUTsoo6_TI7Z-BT4OtjRtxYmqYdRvbzdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15850374468-ln5jum6v8qv018s91uet07dh48mi6dfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
