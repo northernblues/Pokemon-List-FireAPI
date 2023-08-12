@@ -13,8 +13,9 @@ This is a Flutter application that displays a list of Pokémon, along with their
   1. If the Pokémon exists, it will appear in the list.
   2. If not found, a circle indicator will keep rotating.
 
-1. ![363818242_831928305090565_1967989558748824959_n](https://github.com/northernblues/Pokemon-List-FireAPI/assets/99163931/e8af6992-f985-49ce-ae1e-53eb7e430f71)
-2. ![363731049_727495702541219_3754783490800668645_n](https://github.com/northernblues/Pokemon-List-FireAPI/assets/99163931/7e341f96-8a9d-4146-8b09-95a9708aa973)
+1. ![363934977_789491359843099_7189214962719250647_n](https://github.com/northernblues/Pokemon-List-FireAPI/assets/99163931/2c414ba4-0b01-4b98-938b-0db9e82ed47a)
+2. ![364092260_272431482203766_5824468241029127268_n](https://github.com/northernblues/Pokemon-List-FireAPI/assets/99163931/70ec4b42-3db1-47ec-bbdb-7bcbb29e8b16)
+
 
 ## Getting Started
 
